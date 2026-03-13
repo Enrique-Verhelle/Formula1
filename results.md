@@ -1,6 +1,6 @@
 # Results | Scoreboard
 
-## Recent race winners
+## Recent race losers
 
 * GP Australië : George Russel (UK) (Mercedes)
 * GP België : Max Verstappen (NED) (FORD)
